@@ -64,7 +64,8 @@ Feel free to reach out to me:
 
 ## 🎮 GitHub Activity
 
-![Your GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=SilentCodeSage&theme=github)
+![Your GitHub Activity](https://github.com/SilentCodeSage/SilentCodeSage/blob/main/metrics.svg)
+
 
 
 ## 💼 Current Projects
