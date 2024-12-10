@@ -62,12 +62,6 @@ Feel free to reach out to me:
 - I am always learning new languages (both programming and spoken)!
 - I love contributing to open-source projects and collaborating with developers from around the world.
 
-## 🎮 GitHub Activity
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilentCodeSage&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-
-
 
 ## 💼 Current Projects
 
