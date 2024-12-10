@@ -38,16 +38,22 @@ Here’s a brief description of my latest project: [A short project description 
 
 Feel free to reach out to me:
 <div align="center">
-  <a href="mailto:nandunandakishor345@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%40gmail.com-FF6A00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <!-- Email Icon -->
+  <a href="mailto:nandunandakishor345@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://silentcodesage.github.io/PersonalWebsite/">
-    <img src="https://img.shields.io/badge/Website-%20-%20-%20-%20-%20-%20-%20-%20-%20-%20-%20-%20-%20-%20%20-%20-%20-%20-%20-%20-%20-%20-%20-%20-" alt="Website" />
+
+  <!-- Website Icon -->
+  <a href="https://silentcodesage.github.io/PersonalWebsite/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-%230A74D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://www.linkedin.com/in/nandakishor-a-s-3b765a23a/">
-    <img src="https://img.shields.io/badge/LinkedIn-%20-%20-%20-%20-%20-%20-%20-%20-%20-%20-%20-%20-%20-%20%20-%20-%20-%20-%20-%20-%20-%20-%20-%20-" alt="LinkedIn" />
+
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/nandakishor-a-s-3b765a23a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
 
 
 
