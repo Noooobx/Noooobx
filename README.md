@@ -57,14 +57,6 @@ Feel free to reach out to me:
 - [Project 2](https://github.com/yourusername/project2) - A brief description.
 - [Project 3](https://github.com/yourusername/project3) - A brief description.
 
-## 💻 Recent Blog Posts
-
-1. [Blog Post 1](https://yourblog.com/blog-post-1)
-2. [Blog Post 2](https://yourblog.com/blog-post-2)
-3. [Blog Post 3](https://yourblog.com/blog-post-3)
-
----
-
 > “The best way to predict the future is to create it.” - Abraham Lincoln
 
-[![Profile views](https://komarev.com/ghpvc/?username=yourusername)](https://github.com/yourusername)
+[![Profile views](https://komarev.com/ghpvc/?username=SilentCodeSage)](https://github.com/SilentCodeSage)
