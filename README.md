@@ -20,7 +20,7 @@ I'm a passionate developer who loves to code, learn, and build awesome projects.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilentCodeSage&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentCodeSage&layout=compact&theme=radical)
 
 ## 🏆 GitHub Achievements
 
