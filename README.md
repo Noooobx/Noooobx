@@ -8,10 +8,14 @@ I'm a passionate developer who loves to code, learn, and build awesome projects.
 ![Technologies](https://img.shields.io/badge/Technologies-CSS3-blue?style=flat-square&logo=css3)
 ![Technologies](https://img.shields.io/badge/Technologies-JavaScript-blue?style=flat-square&logo=javascript)
 ![Technologies](https://img.shields.io/badge/Technologies-React-blue?style=flat-square&logo=react)
-![Technologies](https://img.shields.io/badge/Technologies-Python-blue?style=flat-square&logo=python)
-![Technologies](https://img.shields.io/badge/Technologies-Django-blue?style=flat-square&logo=django)
+![Technologies](https://img.shields.io/badge/Technologies-Next.js-blue?style=flat-square&logo=next.js)
 ![Technologies](https://img.shields.io/badge/Technologies-Node.js-blue?style=flat-square&logo=node.js)
-
+![Technologies](https://img.shields.io/badge/Technologies-Express-blue?style=flat-square&logo=express)
+![Technologies](https://img.shields.io/badge/Technologies-Python-blue?style=flat-square&logo=python)
+![Technologies](https://img.shields.io/badge/Technologies-C-blue?style=flat-square&logo=c)
+![Technologies](https://img.shields.io/badge/Technologies-MySQL-blue?style=flat-square&logo=mysql)
+![Technologies](https://img.shields.io/badge/Technologies-PostgreSQL-blue?style=flat-square&logo=postgresql)
+![Technologies](https://img.shields.io/badge/Technologies-MongoDB-blue?style=flat-square&logo=mongodb)
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
