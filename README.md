@@ -25,9 +25,9 @@ I'm a passionate developer who loves to code, learn, and build awesome projects.
 
 ## 🏆 GitHub Achievements
 
-- 🔥 **Contributions:** 200+ contributions this year! Let's keep it growing! 
-- 🌱 **Projects:** I’m currently working on several including [Project 1], [Project 2], and [Project 3].
-- 👨‍💻 **Collaborations:** I have collaborated with amazing developers on projects and open-source initiatives.
+-  **Contributions:** 200+ contributions this year! Let's keep it growing! 
+-  **Projects:** I’m currently working on several including [Project 1], [Project 2], and [Project 3].
+-  **Collaborations:** I have collaborated with amazing developers on projects and open-source initiatives.
 
 ## 🚀 My Latest Project
 
