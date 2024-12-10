@@ -40,7 +40,7 @@ Feel free to reach out to me:
 
 - 📧 [Email Me](mailto:nandunandakishor345@gmail.com)
 - 🌐 [Personal Website](https://silentcodesage.github.io/PersonalWebsite/)
-- 📝 [LinkedIn](https://www.linkedin.com/in/nandakishor-a-s-3b765a23a/)
+- 📝 [LinkedIn](https://www.linkedin.com/in/nandakishor-a-s-3b765a23a/
 )
 
 ## 🎉 Fun Facts
