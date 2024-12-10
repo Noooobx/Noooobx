@@ -24,10 +24,9 @@ I'm a passionate developer who loves to code, learn, and build awesome projects.
 
 ## 🏆 GitHub Achievements
 
-- 🔥 **Contributions:** 1000+ contributions this year! Let's keep it growing! 
-- 🌱 **Projects:** I’m currently working on several open-source projects, including [Project 1], [Project 2], and [Project 3].
+- 🔥 **Contributions:** 200+ contributions this year! Let's keep it growing! 
+- 🌱 **Projects:** I’m currently working on several including [Project 1], [Project 2], and [Project 3].
 - 👨‍💻 **Collaborations:** I have collaborated with amazing developers on projects and open-source initiatives.
-- 📝 **Blog:** I occasionally write about tech on [your blog or personal website](https://yourbloglink.com).
 
 ## 🚀 My Latest Project
 
@@ -49,7 +48,7 @@ Feel free to reach out to me:
 
 ## 🎮 GitHub Activity
 
-![Your GitHub Activity](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
+![Your GitHub Activity](https://activity-graph.herokuapp.com/graph?username=SilentCodeSage&theme=github)
 
 ## 💼 Current Projects
 
