@@ -64,7 +64,8 @@ Feel free to reach out to me:
 
 ## 🎮 GitHub Activity
 
-![Your GitHub Activity](https://github.com/SilentCodeSage/SilentCodeSage/blob/main/metrics.svg)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilentCodeSage&show_icons=true&count_private=true&hide=prs&theme=radical)
+
 
 
 
