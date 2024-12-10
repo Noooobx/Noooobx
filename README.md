@@ -37,10 +37,9 @@ Here’s a brief description of my latest project: [A short project description 
 ## 📧 Get in Touch
 
 Feel free to reach out to me:
-
-- 📧 **[Email Me](mailto:nandunandakishor345@gmail.com)**
-- 🌐 **[Personal Website](https://silentcodesage.github.io/PersonalWebsite/)**
-- 📝 **[LinkedIn](https://www.linkedin.com/in/nandakishor-a-s-3b765a23a/)**
+<a href="mailto:nandunandakishor345@gmail.com"><img src="https://img.shields.io/badge/Email-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://silentcodesage.github.io/PersonalWebsite/"><img src="https://img.shields.io/badge/Website-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/nandakishor-a-s-3b765a23a/"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ## 🎉 Fun Facts
 
