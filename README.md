@@ -37,7 +37,7 @@ Here’s a brief description of my latest project: [A short project description 
 ## 📧 Get in Touch
 
 Feel free to reach out to me:
-<div align="center">
+<div >
   <!-- Email Icon -->
   <a href="mailto:nandunandakishor345@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
