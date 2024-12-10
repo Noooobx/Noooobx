@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hello I'm Nandakishor 
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to code, learn, and build awesome projects. I specialize in [your specialties, e.g., web development, machine learning, etc.] and I'm always looking to improve my skills.
+I'm a passionate developer who loves to code, learn, and build awesome projects. I specialize in Full stack development and I'm always looking to improve my skills.
 
 ## 🔧 Technologies & Tools I Use:
 
@@ -34,10 +34,9 @@ Here’s a brief description of my latest project: [A short project description 
 
 Feel free to reach out to me:
 
-- 📧 [Email Me](mailto:youremail@example.com)
+- 📧 [Email Me](nandunandakishor345@gmail.com)
 - 🌐 [Personal Website](https://yourwebsite.com)
-- 📝 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourprofile)
+- 📝 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nandakishor-a-s-3b765a23a/))
 
 ## 🎉 Fun Facts
 
