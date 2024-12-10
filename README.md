@@ -47,4 +47,48 @@ I'm a passionate **Full Stack Developer** who loves to code, learn, and build am
 
 ## 🚀 My Latest Project
 
-[![
+[![Dine Time](https://img.shields.io/badge/Project-Dine%20Time-green?style=for-the-badge)](https://github.com/yourusername/dine-time)
+
+**Dine Time** is a web application that allows customers to pre-order meals and reserve tables in advance, streamlining the dining experience and improving restaurant efficiency.
+
+- **Key Features**:
+  - **Pre-order Meals**: Browse the menu and select dishes for future dining.
+  - **Table Reservation**: Reserve tables based on real-time availability.
+  - **Admin Dashboard**: Manage reservations, orders, and the menu.
+
+---
+
+## 📧 Get in Touch
+
+Feel free to reach out to me:
+
+<div>
+  <!-- Email Icon -->
+  <a href="mailto:nandunandakishor345@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <!-- Website Icon -->
+  <a href="https://silentcodesage.github.io/PersonalWebsite/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-%230A74D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/nandakishor-a-s-3b765a23a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+## 🎉 Fun Facts
+
+- I’m passionate about **learning new programming languages** and exploring different technologies.
+- I enjoy **contributing to open-source projects** and collaborating with developers from all over the world. 🌍
+- **Always curious**, I strive to constantly evolve and grow both as a developer and as an individual. ✨
+
+---
+
+> “The best way to predict the future is to create it.” - Abraham Lincoln
+
+[![Profile views](https://komarev.com/ghpvc/?username=SilentCodeSage)](https://github.com/SilentCodeSage)
