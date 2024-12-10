@@ -67,11 +67,6 @@ Feel free to reach out to me:
 - I love contributing to open-source projects and collaborating with developers from around the world.
 
 
-## 💼 Current Projects
-
-- [Project 1](https://github.com/yourusername/project1) - A brief description.
-- [Project 2](https://github.com/yourusername/project2) - A brief description.
-- [Project 3](https://github.com/yourusername/project3) - A brief description.
 
 > “The best way to predict the future is to create it.” - Abraham Lincoln
 
