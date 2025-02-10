@@ -31,9 +31,9 @@ I'm a passionate **Full Stack Developer** who loves to code, learn, and build am
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilentCodeSage&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nooobx&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentCodeSage&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooobx&layout=compact&theme=radical)
 
 ---
 
@@ -47,7 +47,7 @@ I'm a passionate **Full Stack Developer** who loves to code, learn, and build am
 
 ## 🚀 My Latest Project
 
-[![Dine Time](https://img.shields.io/badge/Project-Dine%20Time-green?style=for-the-badge)](https://github.com/yourusername/dine-time)
+[![Dine Time](https://img.shields.io/badge/Project-Dine%20Time-green?style=for-the-badge)](https://github.com/Nooobx/dine-time)
 
 **Dine Time** is a web application that allows customers to pre-order meals and reserve tables in advance, streamlining the dining experience and improving restaurant efficiency.
 
@@ -69,7 +69,7 @@ Feel free to reach out to me:
   </a>
 
   <!-- Website Icon -->
-  <a href="https://silentcodesage.github.io/PersonalWebsite/" target="_blank">
+  <a href="https://nooobx.github.io/PersonalWebsite/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-%230A74D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 
@@ -91,4 +91,4 @@ Feel free to reach out to me:
 
 > “The best way to predict the future is to create it.” - Abraham Lincoln
 
-[![Profile views](https://komarev.com/ghpvc/?username=SilentCodeSage)](https://github.com/SilentCodeSage)
+[![Profile views](https://komarev.com/ghpvc/?username=Nooobx)](https://github.com/Nooobx)
